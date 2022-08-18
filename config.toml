@@ -1,4 +1,4 @@
 baseURL = 'http://www.notmyfirstcodeo.com'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'en-gb'
+title = 'notMyFirstCodeo'
 theme = "paperMod"
