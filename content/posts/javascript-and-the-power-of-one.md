@@ -48,4 +48,4 @@ So, start now. Don’t quit. And good luck!
 
 - Books
 * JavaScript for Kids (link) - don’t be fooled by the title that it’s for kids. No Starch Press is a wonderful publisher for all things programming, and this book is no exception.
-# * Eloquent JavaScript (link) - a free book that is in its 3rd iteration. The content is clear and there are a number of great examples to follow from.
+* Eloquent JavaScript (link) - a free book that is in its 3rd iteration. The content is clear and there are a number of great examples to follow from.
