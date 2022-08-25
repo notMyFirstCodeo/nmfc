@@ -12,6 +12,18 @@ draft: true
 
 > A data structure consisting of a collection of *elements* (values or variables), each identified by at least one *array index* or *key*.
 
+## Let's Make Some Lists
+
+To follow along with these lists, open up your text editor or the [developer tools](https://balsamiq.com/support/faqs/browserconsole/) in your web browser of choice (in Chrome, you can use Command + Option + J (Mac) or Control + Shift + J (Windows, Linux, ChromeOS))
+
+The easiest way to make an array is to assign it to a variable:
+
+```js
+const rainbow = ["red", "orange", "green", "blue", "indigo", "violet"];
+```
+
+N
+
 # Nested Definitions
 
 # Let's Play With Lists

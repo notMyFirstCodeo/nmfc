@@ -1,4 +1,4 @@
-baseURL = 'http://www.notmyfirstcodeo.com'
-languageCode = 'en-gb'
-title = 'notMyFirstCodeo'
-theme = "paperMod"
+baseURL = "https://www.notmyfirstcodeo.com"
+languageCode = "en-gb"
+title = "notMyFirstCodeo"
+theme = "bootstrap"
