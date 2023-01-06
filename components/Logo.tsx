@@ -4,14 +4,15 @@ function Logo(props: any) {
   const { renderDefault, title } = props;
 
   return (
-    <div className="flex items-center space-x-2">
+    <div className="flex items-center space-x-0.5">
       <Image
         className="rounded-full object-cover"
-        src="/../assets/nmfc-logo.png"
+        src="/nmfc-logo.svg"
         alt="Logo"
         width={50}
         height={50}
       />
+      <>{renderDefault(props)}</>
     </div>
   );
 }

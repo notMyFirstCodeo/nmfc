@@ -11,9 +11,7 @@ function StudioNavbar(props: any) {
         </Link>
 
         <div className="hidden md:flex p-5 rounded-lg justify-center border-2 border-[#F8D50F]">
-          <h1 className="font-bold text-white">
-            Want to see videos on how to advance your coding career?
-          </h1>
+          <h1 className="font-bold text-white">See more at</h1>
           <Link
             href="https://www.youtube.com"
             className="text-[#F8D50F] font-bold ml-2"
